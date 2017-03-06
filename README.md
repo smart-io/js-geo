@@ -1,3 +1,5 @@
+# This library is deprecated, use [geobase/countries](https://github.com/geobase/js-countries) instead.
+
 # Smart Geo
 
 [![Build Status](https://travis-ci.org/smart-io/js-geo.svg)](https://travis-ci.org/smart-io/js-geo)
